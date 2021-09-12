@@ -769,7 +769,7 @@ GPS
 
 <tr align="center">
 
-<td>![](images/1.jpg)</td>
+<td>![](./images/1.jpg)</td>
 
 <td>![](images/2.jpg)</td>
 
