@@ -245,7 +245,7 @@
 
 <td>SharpIR Βιβλιοθήκη</td>
 
-<td>[SharpIR Βιβλιοθήκη](https://github.com/guillaume-rico/SharpIR.git)</td>
+<td><a href="https://github.com/guillaume-rico/SharpIR.git">SharpIR Βιβλιοθήκη</a></td>
 
 <td></td>
 
@@ -255,7 +255,7 @@
 
 <td>Adafruit MMA8451 Βιβλιοθήκη</td>
 
-<td>[Adafruit MMA8451 Βιβλιοθήκη](https://github.com/adafruit/Adafruit_MMA8451_Library.git)</td>
+<td><a href="https://github.com/adafruit/Adafruit_MMA8451_Library.git">Adafruit MMA8451 Βιβλιοθήκη</a></td>
 
 <th>  
 </th>
@@ -266,7 +266,7 @@
 
 <td>Adafruit Sensor Βιβλιοθήκη</td>
 
-<td>[Adafruit Sensor Βιβλιοθήκη](https://github.com/adafruit/Adafruit_Sensor.git)</td>
+<td><a href="https://github.com/adafruit/Adafruit_Sensor.git">Adafruit Sensor Βιβλιοθήκη</a></td>
 
 <td></td>
 
@@ -276,7 +276,7 @@
 
 <td>Voice Recognition Module οδηγός χρήσης</td>
 
-<td>[VR3_manual.pdf](images/VR3_manual.pdf)</td>
+<td><a href="images/VR3_manual.pdf">VR3_manual.pdf</a></td>
 
 <td></td>
 
@@ -286,7 +286,7 @@
 
 <td>Voice Recognition Module Βιβλιοθήκη</td>
 
-<td>[VR3 library](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Felechouse%2FVoiceRecognitionV3%2Farchive%2Fmaster.zip&sa=D&sntz=1&usg=AFQjCNE7a6-RkPLi9FMpjxIFqR-6OoMh5Q)</td>
+<td><a href="https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Felechouse%2FVoiceRecognitionV3%2Farchive%2Fmaster.zip&sa=D&sntz=1&usg=AFQjCNE7a6-RkPLi9FMpjxIFqR-6OoMh5Q">VR3 library</a></td>
 
 <td></td>
 
@@ -391,7 +391,7 @@
 
 ### Προοπτική κατασκευής
 
-![](images/back.png)![](images/back2.png)![](images/side.png)
+<img style="width: 500px; height: 700px;" alt="" src="images/back.png" /><img style="width: 300px; height: 500px;" alt="" src="images/back2.png" /><img style="width: 500px; height: 700px;" alt="" src="images/side.png" />
 
 ### <big>Αναλυτική περιγραφή</big>
 
@@ -456,9 +456,9 @@
 
 ### Αισθητήρας GP2Y0A21 IRDA
 
-![](https://a.pololu-files.com/picture/0J1466.1200.jpg?7b043b12c9f2f938a294daf56169ef35)  
+<img style="width: 200px; height: 200px;" alt="" src="https://a.pololu-files.com/picture/0J1466.1200.jpg?7b043b12c9f2f938a294daf56169ef35" /><br />
 
-<pre>Οι αισθητήρες απόστασης Sharp είναι μια δημοφιλής επιλογή για πολλά έργα που απαιτούν ακριβείς μετρήσεις απόστασης. 
+Οι αισθητήρες απόστασης Sharp είναι μια δημοφιλής επιλογή για πολλά έργα που απαιτούν ακριβείς μετρήσεις απόστασης. 
 
 Αυτός ο αισθητήρας υπερύθρων είναι απο τους πιο οικονομικούς, ωστόσο παρέχει πολύ καλύτερη απόδοση από άλλες εναλλακτικές λύσεις IR.
 Η διασύνδεση με τους περισσότερους μικροελεγκτές είναι απλή.
@@ -468,16 +468,16 @@
 στο άλλο άκρο. 
 Είναι επίσης δυνατή η συγκόλληση τριών καλωδίων στον αισθητήρα όπου είναι τοποθετημένες οι ακίδες σύνδεσης 
 
-Κόκκινο --> 5V
-Μαύρο --> GND
-Κίτρινο --> DATA (Αναλογικό)
-</pre>
+	Κόκκινο --> 5V
+	Μαύρο --> GND
+	Κίτρινο --> DATA (Αναλογικό)
+
 
 ### Αισθητήρας Adafruit Επιταχυνσιόμετρο 3 Αξόνων ±2/4/8g @ 14-bit - MMA8451
 
-![](https://grobotronics.com/images/thumbnails/350/350/detailed/12/adafruit-2019-30091168-01_grobo.jpg)  
+<img style="width: 200px; height: 200px;" alt="" src="https://grobotronics.com/images/thumbnails/350/350/detailed/12/adafruit-2019-30091168-01_grobo.jpg" /><br />
 
-<pre>Το MMA8451 είναι ένα μικροσκοπικό επιταχυνσιόμετρο από την Freescale, η οποία είναι (πλέον) αυθεντία στο παιχνίδι του σχεδιασμού επιταχυνσιόμετρων.
+Το MMA8451 είναι ένα μικροσκοπικό επιταχυνσιόμετρο από την Freescale, η οποία είναι (πλέον) αυθεντία στο παιχνίδι του σχεδιασμού επιταχυνσιόμετρων.
 Έχει σχεδιαστεί για χρήση σε τηλέφωνα, tablet, έξυπνα ρολόγια και άλλα, αλλά λειτουργεί εξίσου καλά και στο έργο σας Arduino.
 Από την οικογένεια MMA8451/MMA8452/MMA8453, ο MMA8451 είναι ο πιο ακριβής με ενσωματωμένο ADC 14-bit.
 Το επιταχυνσιόμετρο διαθέτει επίσης ενσωματωμένη ανίχνευση κλίσης/προσανατολισμού, ώστε να μπορεί να σας πει αν το έργο σας βρίσκεται σε οριζόντια ή κατακόρυφη θέση
@@ -492,14 +492,15 @@
 
  **Αρχή λειτουργίας επιταχυνσιόμετρου.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/To7JagpPDwY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-</pre>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/To7JagpPDwY/maxresdefault.jpg)](https://www.youtube.com/embed/To7JagpPDwY)
+	
+
 
 ### Βηματικός Κινητήρας 30kg.cm (200 steps/rev) 57BYGH115
 
-![](https://grobotronics.com/images/detailed/101/data-wantmotor-57bygh115-003-1-600x600_grobo.jpg)  
+<img style="width: 200px; height: 200px;" alt="" src="https://grobotronics.com/images/detailed/101/data-wantmotor-57bygh115-003-1-600x600_grobo.jpg" />
 
-<pre>Οι βηματικοί κινητήρες (stepper motor) είναι κινητήρες DC που κινούνται σε διακριτά βήματα.
+Οι βηματικοί κινητήρες (stepper motor) είναι κινητήρες DC που κινούνται σε διακριτά βήματα.
 Έχουν πολλά πηνία που οργανώνονται σε ομάδες και ονομάζονται "φάσεις".
 Με την ενεργοποίηση κάθε φάσης σε σειρά, ο κινητήρας θα περιστραφεί, ένα βήμα κάθε φορά.
 Ελεγχόμενο από έναν υπολογιστή μπορείτε να επιτύχετε ακριβή ρύθμιση θέσης και ταχύτητας.
@@ -532,13 +533,13 @@
 
 **Όπως διαπιστώνουμε απο τα παραπάνω, ένας κινητήρας DC και όχι βηματικός θα έκανε πολύ καλύτερα το έργο για το οποίο προορίζεται.
 Η επιλογή του βηματικού κινητήρα έγινε με γνώμονα τη χρήση του και σε επιμέρους project.**
-	</pre>
+
 
 ### Stepper Motor Driver TB6600
 
-![](https://grobotronics.com/images/thumbnails/350/350/detailed/106/sku_418451_1_grobo.jpg)  
+<img style="width: 200px; height: 200px;" alt="" src="https://grobotronics.com/images/thumbnails/350/350/detailed/106/sku_418451_1_grobo.jpg" />
 
-<pre>TB6600 stepper motor Driver Controller 4.5A 8-50V TTL 16 Micro-Step CNC Single-Axis βασισμένο στο τσιπ TB6600HG.
+TB6600 stepper motor Driver Controller 4.5A 8-50V TTL 16 Micro-Step CNC Single-Axis βασισμένο στο τσιπ TB6600HG.
 Αυτός ο ελεγκτής είναι κατάλληλος για την κατασκευή όχι μόνο ερασιτεχνικών συστημάτων CNC αλλά και επαγγελματικών που βασίζονται σε κινητήρες υψηλής ισχύος.
 Σε σύγκριση με την προηγούμενη γενιά του TB6560AHG, η ισχύς του TB6600HG αυξήθηκε στα 200W, η τάση λειτουργίας αυξάνεται από 35V (TB6560AHG) σε 50V, το ρεύμα λειτουργίας αυξάνεται σε 4,5Α (μέγιστη τιμή 5Α).
 Η μέγιστη συχνότητα λειτουργίας έχει αυξηθεί.
@@ -563,13 +564,13 @@ Max. Current per Channel: 4.5A
     Αυτόματη λειτουργία μισού ρεύματος. Και ημιαυτόματο διακόπτη ροής, εύκολο στη χρήση.
     Η χρήση οπτικής σύζευξης υψηλής ταχύτητας 6N137 εξασφαλίζει υψηλή ταχύτητα χωρίς να χάσετε βήμα.
     Προστασία βραχυκυκλώματος εξόδου.
-</pre>
+
 
 ### Μετατροπέας DC-DC Step-Down 1.3-35V 3A
 
-![](https://grobotronics.com/images/thumbnails/350/350/detailed/100/2596s_low_ripple_grobo.jpg)  
+<img style="width: 200px; height: 200px;" alt="" src="https://grobotronics.com/images/thumbnails/350/350/detailed/100/2596s_low_ripple_grobo.jpg" />
 
-<pre>Πρόκειται για ένα DC Adjustable Step Down Module που μπορεί να χρησιμοποιηθεί 
+Πρόκειται για ένα DC Adjustable Step Down Module που μπορεί να χρησιμοποιηθεί 
 για την επίτευξη εύρους ρυθμιζόμενης τάσης εξόδου 1.3V-35V με βάση το LM2596S.
 Περιλαμβάνει LC Ripple Filtering για ομαλότερη τάση εξόδου.
 
@@ -586,13 +587,13 @@ Max. Current per Channel: 4.5A
     Output ripple <30mV
     Switching frequency 65KHz
     Operating temperature -45 ℃ ~ +85 ℃
-</pre>
+
 
 ### Αισθητήρας Αναγνώρισης Φωνής
 
-![](https://grobotronics.com/images/thumbnails/350/350/detailed/106/speak-recognition-voice-recognition-module-v3_grobo.jpg)  
+<img style="width: 200px; height: 200px;" alt="" src="https://grobotronics.com/images/thumbnails/350/350/detailed/106/speak-recognition-voice-recognition-module-v3_grobo.jpg" />
 
-<pre>
+
 Το Voice Recognition Module είναι μια εύχρηστη μονάδα αναγνώρισης ομιλίας που μπορεί εύκολα να διασυνδεθεί με το Arduino.
 Υποστηρίζει συνολικά έως και 80 φωνητικές εντολές.
 Μέγιστες 7 φωνητικές εντολές θα μπορούσαν να λειτουργήσουν ταυτόχρονα. Κάθε ήχος θα μπορούσε να εκπαιδευτεί ως εντολή.
@@ -624,13 +625,11 @@ Max. Current per Channel: 4.5A
     Digital Interface: 5V TTL level for UART interface and GPIO
     Analog Interface: 3.5mm mono-channel microphone connector + microphone pin interface
     Recognition accuracy: 99% (under ideal environment)
-</pre>
+
 
 ### Waveshare GSM/GPRS/GPS Shield SIM808
 
-![](https://grobotronics.com/images/thumbnails/350/350/detailed/103/gsm-gprs-gps-shield-b-7_3_grobo.jpg)  
-
-<pre>ΠΕΡΙΓΡΑΦΗ
+<img style="width: 200px; height: 200px;" alt="" src="https://grobotronics.com/images/thumbnails/350/350/detailed/103/gsm-gprs-gps-shield-b-7_3_grobo.jpg" />
 
 Το GSM/GPRS/GPS Shield (B) είναι μια ασπίδα Arduino που βασίζεται στη μονάδα τεσσάρων ζωνών GSM/GPRS/GPS SIM808.
 
@@ -703,7 +702,7 @@ GPS
         Warm starts: 28s
     Accuracy
         Horizontal position : <2.5m CEP
-</pre>
+
 
 </div>
 
@@ -723,9 +722,9 @@ GPS
 
 ![](images/robowheels.png)  
 
-#### Δείτε τον κώδικα
+#### Κατεβάστε τον κώδικα
 
-<div style="text-align: left; font-size: 12pt; background-color:Gainsboro"><xmp>#include <SharpIR.h> #include <Wire.h> #include <Adafruit_MMA8451.h> #include <Adafruit_Sensor.h> // ΜΕΤΑΒΛΗΤΕΣ ΓΙΑ ΤΟ ΑΡΙΣΤΕΡΟ ΜΟΤΕΡ byte directionPin = 4; byte stepPin = 3; byte enablePin = 2; int numberOfSteps = 400; int millisbetweenSteps = 1; //ΜΕΤΑΒΛΗΤΕΣ ΓΙΑ ΤΟ ΔΕΞΙ ΜΟΤΕΡ byte directionPin_R = 7; byte stepPin_R = 6; byte enablePin_R = 5; int numberOfSteps_R = 400; int distance1; int distance2; SharpIR sensor1 ( SharpIR:: GP2Y0A21YK0F, A0); SharpIR sensor2 ( SharpIR:: GP2Y0A21YK0F, A1); Adafruit_MMA8451 mma = Adafruit_MMA8451(); void setup() { Serial.begin(9600); //ΑΡΧΙΚΟΠΙΟΙΣΗ ΚΑΙ ΕΝΕΡΓΟΠΙΟΙΣΗ PINS ΑΡΙΣΤΕΡΟΥ ΜΟΤΕΡ pinMode(directionPin, OUTPUT); pinMode(stepPin, OUTPUT); pinMode(enablePin, OUTPUT); digitalWrite(enablePin, HIGH); digitalWrite(directionPin, HIGH); //ΑΡΧΙΚΟΠΙΟΙΣΗ ΚΑΙ ΕΝΕΡΓΟΠΙΟΙΣΗ PINS ΔΕΞΙΟΥ ΜΟΤΕΡ pinMode(directionPin_R, OUTPUT); pinMode(stepPin_R, OUTPUT); pinMode(enablePin_R, OUTPUT); digitalWrite(enablePin_R, HIGH); digitalWrite(directionPin_R, HIGH); delay(100); Serial.println("Adafruit MMA8451 test!"); if (! mma.begin()) { Serial.println("Couldnt start"); while (1); } Serial.println("MMA8451 found!"); } void loop() { // Διαβαζουμε τις τιμες του αισθητηρα mma8451 mma.read(); Serial.print("X:\t"); Serial.print(mma.x); Serial.print("\tY:\t"); Serial.print(mma.y); Serial.println(); distance1 = sensor1.getDistance(); distance2 = sensor2.getDistance(); Serial.print(distance1); Serial.print(" , "); Serial.println(distance2); // ελεγχουμε τις συνθηκες για να παει το μοτερ μπροστα if (distance1 >= 40 and distance2 <= 15 && mma.y >= 1800) { Serial.print("ΜΟΤΕΡ 1 ON"); for(int n = 0; n <numberOfSteps; n++) { Serial.print("ΜΟΤΕΡ 1 ON"); digitalWrite(stepPin, HIGH); digitalWrite(stepPin, LOW); digitalWrite(stepPin_R, HIGH); digitalWrite(stepPin_R, LOW); delay(millisbetweenSteps); } delay(1); } // ελεγχουμε τις συνθηκες για να παει το μοτερ πισω if (distance1 >= 40 and distance2 <= 15 && mma.y <= -1800) { Serial.print(numberOfSteps); for(int n = numberOfSteps; n > 0; n--) { Serial.print("ΜΟΤΕΡ 1 ON ΠΙΣΩ"); digitalWrite(stepPin, HIGH); digitalWrite(stepPin, LOW); digitalWrite(stepPin_R, HIGH); digitalWrite(stepPin_R, LOW); delay(millisbetweenSteps); } delay(1); } //ελεγχουμε τις συνθηκες για να στριξει το μοτερ δεξια if (distance1 >= 40 and distance2 <= 15 && mma.x >= 1400) { Serial.print(numberOfSteps); for(int n = 0; n < 400; n++) { Serial.print("ΜΟΤΕΡ 1 ΔΕΞΙΑ"); digitalWrite(stepPin, HIGH); digitalWrite(stepPin, LOW); for(int n = 1; n >0 ; n--) { digitalWrite(stepPin_R, HIGH); digitalWrite(stepPin_R, LOW); } delay(millisbetweenSteps); } delay(100); } // ελεγχουμε τις συνθηκες για να παει το μοτερ αριστερα if (distance1 >= 40 and distance2 <= 15 && mma.x <= -1400) { Serial.print(numberOfSteps); for(int n = 400; n > 0; n--) { Serial.print("ΜΟΤΕΡ 1 ON ΑΡΙΣΤΕΡΑ"); digitalWrite(stepPin, HIGH); digitalWrite(stepPin, LOW); delay(millisbetweenSteps); } delay(100); } delay(1000); }</xmp></div>
+<a href="/files/mma.ino">Κώδικας με τον αισθητήρα MMA</a>
 
 </div>
 
@@ -747,11 +746,13 @@ GPS
 
 #### Εκπαιδεύστε το module σας
 
+[![IMAGE ALT TEXT HERE](/images/pc.png)](https://www.youtube.com/embed/bTrv1nv3oSA)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bTrv1nv3oSA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-#### Δείτε τον κώδικα
+#### Κατεβάστε τον κώδικα
 
-<div style="text-align: left; font-size: 12pt; background-color:Gainsboro"><xmp>#include <SoftwareSerial.h> #include "VoiceRecognitionV3.h" #include <SharpIR.h> #include <Wire.h> // ΜΕΤΑΒΛΗΤΕΣ ΓΙΑ ΤΟ ΑΡΙΣΤΕΡΟ ΜΟΤΕΡ byte directionPin = 10; byte stepPin = 9; byte enablePin = 8; int numberOfSteps = 20; int millisbetweenSteps = 0; //ΜΕΤΑΒΛΗΤΕΣ ΓΙΑ ΤΟ ΔΕΞΙ ΜΟΤΕΡ byte directionPin_R = 4; byte stepPin_R = 6; byte enablePin_R = 5; int numberOfSteps_R = 20; int distance1; int distance2; SharpIR sensor1 ( SharpIR:: GP2Y0A21YK0F, A0); SharpIR sensor2 ( SharpIR:: GP2Y0A21YK0F, A1); /** Connection Arduino VoiceRecognitionModule 2 -------> TX 3 -------> RX */ VR myVR(2,3); // 2:RX 3:TX, you can choose your favourite pins. uint8_t records[7]; // save record uint8_t buf[64]; int ret2; #define mp (0) #define pi (1) #define de (2) #define ar (3) #define st (4) /** @brief Print signature, if the character is invisible, print hexible value instead. @param buf --> command length len --> number of parameters */ void printSignature(uint8_t *buf, int len) { int i; for(i=0; i<len; i++){ if(buf[i]>0x19 && buf[i]<0x7F){ Serial.write(buf[i]); } else{ Serial.print("["); Serial.print(buf[i], HEX); Serial.print("]"); } } } void setup() { /** initialize */ myVR.begin(9600); Serial.begin(115200); //ΑΡΧΙΚΟΠΙΟΙΣΗ ΚΑΙ ΕΝΕΡΓΟΠΙΟΙΣΗ PINS ΑΡΙΣΤΕΡΟΥ ΜΟΤΕΡ pinMode(directionPin, OUTPUT); pinMode(stepPin, OUTPUT); pinMode(enablePin, OUTPUT); digitalWrite(enablePin, HIGH); digitalWrite(directionPin, HIGH); //ΑΡΧΙΚΟΠΙΟΙΣΗ ΚΑΙ ΕΝΕΡΓΟΠΙΟΙΣΗ PINS ΔΕΞΙΟΥ ΜΟΤΕΡ pinMode(directionPin_R, OUTPUT); pinMode(stepPin_R, OUTPUT); pinMode(enablePin_R, OUTPUT); digitalWrite(enablePin_R, HIGH); digitalWrite(directionPin_R, HIGH); delay(100); Serial.println("Elechouse Voice Recognition V3 Module\r\nControl LED sample"); if(myVR.clear() == 0){ Serial.println("Recognizer cleared."); }else{ Serial.println("Not find VoiceRecognitionModule."); Serial.println("Please check connection and restart Arduino."); while(1); } if(myVR.load((uint8_t)mp) >= 0){ Serial.println("mprosta"); } if(myVR.load((uint8_t)pi) >= 0){ Serial.println("opisthen"); } if(myVR.load((uint8_t)de) >= 0){ Serial.println("ena"); } if(myVR.load((uint8_t)ar) >= 0){ Serial.println("dio"); } if(myVR.load((uint8_t)st) >= 0){ Serial.println("stop"); } } void loop() { distance1 = sensor1.getDistance(); distance2 = sensor2.getDistance(); if (distance1 >= 40 and distance2 <= 20) { } int ret; ret = myVR.recognize(buf, 50); if(ret>0){ switch(buf[1]){ case mp:{ Serial.println("pao mprosta "); Serial.println(String(buf[1])); Serial.println(myVR.recognize(buf, 50)); Serial.print(distance1); Serial.print(" , "); Serial.print(distance2); Serial.print(" *** "); if (distance1 >= 40 and distance2 <= 20) { Serial.println("ΜΟΤΕΡ 1 ON"); digitalWrite(directionPin_R, LOW); digitalWrite(directionPin, HIGH); ret2 =0; int flag = 0; while(distance1 >= 40 and distance2 <= 20 and flag == 0) { Serial.println("ΜΟΤΕΡ 1 ON ΜΠΡΟΣΤΑ" + String(flag)); digitalWrite(stepPin, HIGH); digitalWrite(stepPin, LOW); digitalWrite(stepPin_R, HIGH); digitalWrite(stepPin_R, LOW); ret2 = myVR.recognize(buf, 50); Serial.println("ret2=" + String(ret2)); if (ret2>0 and buf[1]>3){ flag=1; Serial.println("****************************************************"); } distance1 = sensor1.getDistance(); distance2 = sensor2.getDistance(); } } break; } case pi:{ Serial.println("pao piso"); Serial.println(buf[1]); Serial.println(myVR.recognize(buf, 50)); digitalWrite(directionPin_R, HIGH); digitalWrite(directionPin, LOW); ret2 =0; int flag = 0; while(flag == 0) { Serial.println("ΜΟΤΕΡ 1 ON πισω" + String(flag)); digitalWrite(stepPin, HIGH); digitalWrite(stepPin, LOW); digitalWrite(stepPin_R, HIGH); digitalWrite(stepPin_R, LOW); ret2 = myVR.recognize(buf, 50); Serial.println("ret2=" + String(ret2)); if (ret2>0 and buf[1]>3){ flag=1; Serial.println("****************************************************"); } distance1 = sensor1.getDistance(); distance2 = sensor2.getDistance(); } break; } case de:{ Serial.println("pao deksia"); Serial.println(buf[1]); Serial.println(myVR.recognize(buf, 50)); digitalWrite(directionPin_R, HIGH); digitalWrite(directionPin, HIGH); ret2 =0; int flag = 0; while(flag == 0) { Serial.println("ΜΟΤΕΡ 1 ON δεξια" + String(flag)); digitalWrite(stepPin, HIGH); digitalWrite(stepPin, LOW); digitalWrite(stepPin_R, HIGH); digitalWrite(stepPin_R, LOW); ret2 = myVR.recognize(buf, 50); Serial.println("ret2=" + String(ret2)); if (ret2>0 and buf[1]>3){ flag=1; Serial.println("****************************************************"); } distance1 = sensor1.getDistance(); distance2 = sensor2.getDistance(); } break; } case ar:{ Serial.println("pao aristera"); Serial.println(buf[1]); Serial.println(myVR.recognize(buf, 50)); digitalWrite(directionPin_R, LOW); digitalWrite(directionPin, LOW); ret2 =0; int flag = 0; while(flag == 0) { Serial.println("ΜΟΤΕΡ 1 ON αριστερα" + String(flag)); digitalWrite(stepPin, HIGH); digitalWrite(stepPin, LOW); digitalWrite(stepPin_R, HIGH); digitalWrite(stepPin_R, LOW); ret2 = myVR.recognize(buf, 50); Serial.println("ret2=" + String(ret2)); if (ret2>0 and buf[1]>3){ flag=1; Serial.println("****************************************************"); } distance1 = sensor1.getDistance(); distance2 = sensor2.getDistance(); } break; } case st: Serial.println("stamatao"); Serial.println(ret); Serial.println(buf[1]); Serial.println(myVR.recognize(buf, 50)); break; default: Serial.println("Record function undefined"); break; } } }</xmp></div>
+<a href="/files/voice.ino">Κώδικας με τον αισθητήρα voice</a>
 
 </div>
 
@@ -769,49 +770,49 @@ GPS
 
 <tr align="center">
 
-<td>![](./images/1.jpg)</td>
+<td><img style="width: 250px; height: 250px;" alt="" src="images/1.jpg" /></td>
 
-<td>![](images/2.jpg)</td>
+<td><img style="width: 250px; height: 250px;" alt="" src="images/2.jpg" /></td>
 
-<td>![](images/3.jpg)</td>
+<td><img style="width: 250px; height: 250px;" alt="" src="images/3.jpg" /></td>
 
-<td>![](images/4.jpg)</td>
-
-</tr>
-
-<tr align="center">
-
-<td>![](images/5.jpg)</td>
-
-<td>![](images/6.jpg)</td>
-
-<td>![](images/7.jpg)</td>
-
-<td>![](images/8.jpg)</td>
+<td><img style="width: 250px; height: 250px;" alt="" src="images/4.jpg" /></td>
 
 </tr>
 
 <tr align="center">
 
-<td>![](images/9.jpg)</td>
+<td><img style="width: 250px; height: 250px;" alt="" src="images/5.jpg" /></td>
 
-<td>![](images/10.jpg)</td>
+<td><img style="width: 250px; height: 250px;" alt="" src="images/6.jpg" /></td>
 
-<td>![](images/11.jpg)</td>
+<td><img style="width: 250px; height: 250px;" alt="" src="images/7.jpg" /></td>
 
-<td>![](images/12.jpg)</td>
+<td><img style="width: 250px; height: 250px;" alt="" src="images/8.jpg" /></td>
 
 </tr>
 
 <tr align="center">
 
-<td>![](images/13.jpg)</td>
+<td><img style="width: 250px; height: 250px;" alt="" src="images/9.jpg" /></td>
 
-<td>![](images/14.jpg)</td>
+<td><img style="width: 250px; height: 250px;" alt="" src="images/10.jpg" /></td>
 
-<td>![](images/15.jpg)</td>
+<td><img style="width: 250px; height: 250px;" alt="" src="images/11.jpg" /></td>
 
-<td>![](images/16.jpg)</td>
+<td><img style="width: 250px; height: 250px;" alt="" src="images/12.jpg" /></td>
+
+</tr>
+
+<tr align="center">
+
+<td><img style="width: 250px; height: 250px;" alt="" src="images/13.jpg" /></td>
+
+<td><img style="width: 250px; height: 250px;" alt="" src="images/14.jpg" /></td>
+
+<td><img style="width: 250px; height: 250px;" alt="" src="images/15.jpg" /></td>
+
+<td><img style="width: 250px; height: 250px;" alt="" src="images/16.jpg" /></td>
 
 </tr>
 
