@@ -336,9 +336,9 @@
 
 <tr>
 
-<td></td>
+<td>1</td>
 
-<td></td>
+<td>Ράβδος αλουμινίου</td>
 
 <td></td>
 
@@ -348,14 +348,26 @@
 
 <tr>
 
-<td></td>
+<td>2</td>
+
+<td>Ράβδος αλουμινίου</td>
 
 <td></td>
-
 <td></td>
 
-<th>  
-</th>
+
+
+</tr>
+
+<tr>
+
+<td>2</td>
+
+<td>Βάση για μοτέρ 57mm nema 23 3d μοντέλο για εκτύπωση</td>
+
+<td></td>
+<td><a href="/images/mountmodel.stl">Κατεβάστε απο εδώ</a></td>
+
 
 </tr>
 
@@ -363,15 +375,38 @@
 
 <td></td>
 
-<td></td>
+<td>Βίδες</td>
 
 <td></td>
-
-<th>  
-</th>
+	
+<td></td>
 
 </tr>
 
+<tr>
+
+<td>2</td>
+
+<td>Ασφάλειες μεταλλικές</td>
+
+<td></td>
+	
+<td></td>
+
+</tr>
+	
+<tr>
+
+<td>2</td>
+
+<td>Ρόδες διαμέτρου</td>
+
+<td></td>
+	
+<td></td>
+
+</tr>
+	
 <tr>
 
 <td></td>
@@ -379,11 +414,23 @@
 <td></td>
 
 <td></td>
-
-<th>  
-</th>
+	
+<td></td>
 
 </tr>
+	
+<tr>
+
+<td></td>
+
+<td></td>
+
+<td></td>
+	
+<td></td>
+
+</tr>
+
 
 </tbody>
 
@@ -391,7 +438,7 @@
 
 ### Προοπτική κατασκευής
 
-<img style="width: 500px; height: 700px;" alt="" src="images/back.png" /><img style="width: 300px; height: 500px;" alt="" src="images/back2.png" /><img style="width: 500px; height: 700px;" alt="" src="images/side.png" />
+<img style="width: 30%; height: 30%;" alt="" src="images/back.png" /><img style="width: 30%; height: 30%;" alt="" src="images/back2.png" /><img style="width: 40%; height: 40%;" alt="" src="images/side.png" />
 
 ### <big>Αναλυτική περιγραφή</big>
 
