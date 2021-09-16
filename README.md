@@ -436,10 +436,14 @@
 
 </table>
 
-## Προοπτική κατασκευής
+## Προοπτική κατασκευής τρόπος 1
 
 <img style="width: 30%; height: 30%;" alt="" src="images/back.png" /><img style="width: 30%; height: 30%;" alt="" src="images/back2.png" /><img style="width: 40%; height: 40%;" alt="" src="images/side.png" />
+	
+## Προοπτική κατασκευής τρόπος 2
 
+<img style="width: 30%; height: 30%;" alt="" src="images/robowheelsmodel2.png" /><img style="width: 70%; height: 70%;" alt="" src="images/side2.png" />
+	
 ### <big>Αναλυτική περιγραφή</big>
 
 <pre>Οι μαθητές αφού βρουν στοιχεία για την τετραπληγία και την παραπληγία 
@@ -771,7 +775,7 @@ GPS
 
 #### Κατεβάστε τον κώδικα
 
-<a href="/files/mma.ino">Κώδικας με τον αισθητήρα MMA</a>
+<a href="/files/mma.ino">Κώδικας με τον αισθητήρα MMA8451</a>
 
 </div>
 
