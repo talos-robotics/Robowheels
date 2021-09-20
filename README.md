@@ -981,13 +981,15 @@ GPS
 ### Λύσεις – Προτάσεις (αντίστοιχα)
 	
 1. Η επιλογή δύο DC μοτέρ είναι επιβεβλημένη. Η επιλογή πρέπει να γίνει με γνώμονα την ταχύτητα σε σχέση με την ροπή. Γενικά όσο μεγαλώνει η ταχύτητα η ροπή μικραίνει.
+
 Δείτε το σχετικό βίντεο
+
+<b>Bίντεο 1</b>
+[![](https://gblobscdn.gitbook.com/assets%2F15mm%2F-M9UyJQ58gxmBWnvU4aJ%2F-M9UzF3HmI-qLC_QjeRt%2F5.png?alt=media)](https://www.youtube.com/embed/UUfZnZ_0Cb8)
 	
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/UUfZnZ_0Cb8/maxresdefault.jpg)](https://www.youtube.com/embed/UUfZnZ_0Cb8)
+<b>Bίντεο 2</b>
+[![](https://cariwilliamzvex.weebly.com/uploads/4/1/9/2/41923069/1_1_orig.jpg)](https://www.youtube.com/embed/5IjG4iSJYQ4)	
 	
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5IjG4iSJYQ4/maxresdefault.jpg)](https://www.youtube.com/embed/5IjG4iSJYQ4)
-	
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/To7JagpPDwY/maxresdefault.jpg)](https://www.youtube.com/embed/To7JagpPDwY)
 Πρέπει να βρεθεί μια χρυσή τομή μεταξύ των δύο παραμέτρων.
 
 Κάποιες προτάσεις μοτέρ παρακάτω
