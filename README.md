@@ -438,11 +438,11 @@
 
 ## Προοπτική κατασκευής τρόπος 1
 
-<img style="width: 30%; height: 30%;" alt="" src="images/back.png" /><img style="width: 30%; height: 30%;" alt="" src="images/back2.png" /><img style="width: 40%; height: 40%;" alt="" src="images/side.png" />
-	
+<img style="width: 50%; height: 50%;" alt="" src="images/ROBOWHEELS1.png" /><img style="width: 50%; height: 50%;" alt="" src="images/ROBOWHEELS1_2.png" />
+
 ## Προοπτική κατασκευής τρόπος 2
 
-<img style="width: 30%; height: 30%;" alt="" src="images/robowheelsmodel2.png" /><img style="width: 70%; height: 70%;" alt="" src="images/side2.png" />
+<img style="width: 50%; height: 50%;" alt="" src="images/ROBOWHEELS2_1.png" /><img style="width: 50%; height: 50%;" alt="" src="images/ROBOWHEELS2_2.png" />
 	
 ### <big>Αναλυτική περιγραφή</big>
 
