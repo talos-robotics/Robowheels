@@ -82,13 +82,13 @@
 
 <tr>
 
-<td>3</td>
+<td>1</td>
 
 <td>ARDUINO UNO</td>
 
-<td>75</td>
+<td>25</td>
 
-<td>Ίσως δημιουργηθούν 3 διαφορετικά υποσυστήματα</td>
+<td></td>
 
 </tr>
 
@@ -98,7 +98,7 @@
 
 <td>GP2Y0A21YK0F Sharp IR Analog Distance Sensor</td>
 
-<td>19,68</td>
+<td>20</td>
 
 <th>  
 </th>
@@ -111,7 +111,7 @@
 
 <td>Adafruit Επιταχυνσιόμετρο 3 Αξόνων ±2/4/8g @ 14-bit - MMA8451</td>
 
-<td>9,80</td>
+<td>8</td>
 
 <th>  
 </th>
@@ -122,9 +122,9 @@
 
 <td>2</td>
 
-<td>Βηματικός Κινητήρας 30kg.cm (200 steps/rev) 57BYGH115</td>
+<td>12V 35RPM JGY37-520 - 37mm Eccentric Large Torque Gear Motor Gearbox with Metal Gearbox</td>
 
-<td>84</td>
+<td>13</td>
 
 <th>  
 </th>
@@ -135,9 +135,9 @@
 
 <td>1</td>
 
-<td>Οδηγός για Βηματικό Κινητήρα</td>
+<td>Οδηγός για Βηματικό Κινητήρα L298N Dual H Bridge</td>
 
-<td>?</td>
+<td>4</td>
 
 <th>  
 </th>
@@ -163,7 +163,7 @@
 
 <td>Voice Recognition Module Rev3 Kit -Arduino Compatible</td>
 
-<td>16</td>
+<td>32</td>
 
 <th>  
 </th>
@@ -176,7 +176,7 @@
 
 <td>SIM808 GPS GSM GPRS Bluetooth Module W/2.4G Antenna Replace SIM908 For Arduino</td>
 
-<td>18</td>
+<td>44</td>
 
 <th>  
 </th>
@@ -189,7 +189,7 @@
 
 <td>Πυκνωτές >10μF</td>
 
-<td></td>
+<td>1</td>
 
 <td></td>
 
@@ -214,7 +214,7 @@
 
 <td>Σύνολο</td>
 
-<td>153,7</td>
+<td>170</td>
 
 <th>  
 </th>
@@ -801,7 +801,7 @@ GPS
 
 #### Συνδεσμολογία
 
-![](images/robowheelsv2.png)  
+![](images/robowheelsfinalall.png)  
 
 #### Εκπαιδεύστε το module σας
 
