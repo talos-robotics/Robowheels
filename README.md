@@ -319,123 +319,99 @@
 ## Υλικά για την κατασκευή
 
 <table style="width: 100%;" border="1">
-
 <tbody>
-
 <tr>
-
 <th>ΠΟΣΟΤΗΤΑ</th>
-
 <th>ΕΙΔΟΣ</th>
-
-<th>ΚΟΣΤΟΣ</th>
-
+<th></th>
 <th>Σχόλια</th>
-
 </tr>
-
 <tr>
-
-<td>1</td>
-
-<td>Ράβδος αλουμινίου</td>
-
+<td style="text-align: center;">1</td>
+<td>Ράβδος αλουμινίου 4cm x 2cm  Μήκος - 1m</td>
 <td></td>
-
 <td></td>
-
 </tr>
-
 <tr>
-
-<td>2</td>
-
-<td>Ράβδος αλουμινίου</td>
-
+<td style="text-align: center;">2</td>
+<td>Ράβδος αλουμινίου 4cm x 2cm  Μήκος - 40 cm</td>
 <td></td>
 <td></td>
-
-
-
 </tr>
-
 <tr>
-
-<td>2</td>
-
+<td style="text-align: center;">2</td>
 <td>Βάση για μοτέρ 3d μοντέλο για εκτύπωση</td>
-
 <td></td>
 <td><a href="https://github.com/talos-robotics/Robowheels/blob/main/images/JGB37-520%20mount.STL">Κατεβάστε απο εδώ</a></td>
-
-
 </tr>
-
 <tr>
-
 <td></td>
-
-<td>Βίδες</td>
-
+<td>Βίδες αυτοδιάτρητες  - διάφορα μεγέθη</td>
 <td></td>
-	
 <td></td>
-
 </tr>
-
 <tr>
-
-<td>2</td>
-
-<td>Ασφάλειες μεταλλικές</td>
-
+<td style="text-align: center;">2</td>
+<td>Ασφάλειες μεταλλικές - κοπίλια</td>
 <td></td>
-	
 <td></td>
-
 </tr>
-	
 <tr>
-
-<td>2</td>
-
-<td>Ρόδες διαμέτρου</td>
-
+<td style="text-align: center;">2</td>
+<td>Ρόδες  με διάμετρο υποδοχής 6mm</td>
 <td></td>
-	
 <td></td>
-
 </tr>
-	
 <tr>
-
+<td style="text-align: center;">1</td>
+<td>Γωνιακό προφίλ αλουμινίου 40 cm</td>
 <td></td>
-
 <td></td>
-
-<td></td>
-	
-<td></td>
-
 </tr>
-	
 <tr>
-
+<td style="text-align: center;">1</td>
+<td>Μονοτική ταινία</td>
 <td></td>
-
 <td></td>
-
-<td></td>
-	
-<td></td>
-
 </tr>
-
-
+<tr>
+<td style="text-align: center;">2</td>
+<td>Ράβδος αλουμινίου 4cm x 2cm  Μήκος - 20m</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: center;">12</td>
+<td>Βίδες Υ:2cm Π:4χιλ.</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: center;"></td>
+<td>Καλώδια 0.4 mm Διάφορα χρώμματα</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: center;"></td>
+<td>Κολλητήρι -  Καλάι</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: center;"></td>
+<td>Πιστόλι σιλικόνης - Ράβδοι συλικόνης</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: center;"></td>
+<td>Δραπανοκατσάβιδο μπαταρίας</td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
-
 </table>
-
 ## Κατασκευή υποτιθέμενου αμαξιδίου ( εξομοιωτή )
 
 <img style="width: 50%; height: 50%;" alt="" src="images/ROBOWHEELS1.png" /><img style="width: 50%; height: 50%;" alt="" src="images/ROBOWHEELS1_2.png" />
