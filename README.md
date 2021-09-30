@@ -762,118 +762,112 @@ GPS
 
 	
 ## Φωτογραφίες
-<table style="width: 100%;" border="1">
+<table style="width: 70%;" border="1">
 
 <tbody>
 
 <tr align="center">
 
-<td><img style="width: 250px; height: 250px;" alt="" src="images/1.jpg" /></td>
+<td><img src="images/1.jpg" alt="" width="80%" height="80%"></td>
 
-<td><img style="width: 250px; height: 250px;" alt="" src="images/2.jpg" /></td>
+<td><img src="images/1.jpg" alt="" width="80%" height="80%"></td>
 
-<td><img style="width: 250px; height: 250px;" alt="" src="images/3.jpg" /></td>
+<td><img src="images/1.jpg" alt="" width="80%" height="80%"></td>
 
-<td><img style="width: 250px; height: 250px;" alt="" src="images/4.jpg" /></td>
-
-</tr>
-
-<tr align="center">
-
-<td><img style="width: 250px; height: 250px;" alt="" src="images/5.jpg" /></td>
-
-<td><img style="width: 250px; height: 250px;" alt="" src="images/6.jpg" /></td>
-
-<td><img style="width: 250px; height: 250px;" alt="" src="images/7.jpg" /></td>
-
-<td><img style="width: 250px; height: 250px;" alt="" src="images/8.jpg" /></td>
+<td><img src="images/1.jpg" alt="" width="80%" height="80%"></td>
 
 </tr>
 
 <tr align="center">
 
-<td><img style="width: 250px; height: 250px;" alt="" src="images/9.jpg" /></td>
+<td><img src="images/1.jpg" alt="" width="80%" height="80%"></td>
 
-<td><img style="width: 250px; height: 250px;" alt="" src="images/10.jpg" /></td>
+<td><img src="images/1.jpg" alt="" width="80%" height="80%"></td>
 
-<td><img style="width: 250px; height: 250px;" alt="" src="images/11.jpg" /></td>
+<td><img src="images/1.jpg" alt="" width="80%" height="80%"></td>
 
-<td><img style="width: 250px; height: 250px;" alt="" src="images/12.jpg" /></td>
-
-</tr>
-
-<tr align="center">
-
-<td><img style="width: 250px; height: 250px;" alt="" src="images/13.jpg" /></td>
-
-<td><img style="width: 250px; height: 250px;" alt="" src="images/14.jpg" /></td>
-
-<td><img style="width: 250px; height: 250px;" alt="" src="images/15.jpg" /></td>
-
-<td><img style="width: 250px; height: 250px;" alt="" src="images/16.jpg" /></td>
+<td><img src="images/1.jpg" alt="" width="80%" height="80%"></td>
 
 </tr>
 
 <tr align="center">
 
-<td><img style="width: 250px; height: 250px;" alt="" src="images/17.jpg" /></td>
+<td><img src="images/1.jpg" alt="" width="80%" height="80%"></td>
 
-<td><img style="width: 250px; height: 250px;" alt="" src="images/18.jpg" /></td>
+<td><img src="images/1.jpg" alt="" width="80%" height="80%"></td>
 
-<td><img style="width: 250px; height: 250px;" alt="" src="images/19.jpg" /></td>
+<td><img src="images/1.jpg" alt="" width="80%" height="80%"></td>
 
-<td><img style="width: 250px; height: 250px;" alt="" src="images/20.jpg" /></td>
-
-</tr>
-
-<tr align="center">
-
-<td><img style="width: 250px; height: 250px;" alt="" src="images/21.jpg" /></td>
-
-<td><img style="width: 250px; height: 250px;" alt="" src="images/22.jpg" /></td>
-
-<td><img style="width: 250px; height: 250px;" alt="" src="images/23.jpg" /></td>
-
-<td><img style="width: 250px; height: 250px;" alt="" src="images/24.jpg" /></td>
+<td><img src="images/1.jpg" alt="" width="80%" height="80%"></td>
 
 </tr>
 
 <tr align="center">
 
-<td><video controls=""><source src="images/v1.mp4" type="video/mp4"> Your browser does not support HTML video.</video> </td>
+<td><img src="images/1.jpg" alt="" width="80%" height="80%"></td>
 
-<td></td>
+<td><img src="images/1.jpg" alt="" width="80%" height="80%"></td>
 
-<td></td>
+<td><img src="images/1.jpg" alt="" width="80%" height="80%"></td>
 
-<th>  
-</th>
-
-</tr>
-
-<tr align="center">
-
-<td></td>
-
-<td></td>
-
-<td></td>
-
-<th>  
-</th>
+<td><img src="images/1.jpg" alt="" width="80%" height="80%"></td>
 
 </tr>
 
 <tr align="center">
 
-<td></td>
+<td><img src="images/1.jpg" alt="" width="80%" height="80%"></td>
 
-<td></td>
+<td><img src="images/1.jpg" alt="" width="80%" height="80%"></td>
 
-<td></td>
+<td><img src="images/1.jpg" alt="" width="80%" height="80%"></td>
 
-<th>  
-</th>
+<td><img src="images/1.jpg" alt="" width="80%" height="80%"></td>
+
+</tr>
+
+<tr align="center">
+
+<td><img src="images/1.jpg" alt="" width="80%" height="80%"></td>
+
+<td><img src="images/1.jpg" alt="" width="80%" height="80%"></td>
+
+<td><img src="images/1.jpg" alt="" width="80%" height="80%"></td>
+
+<td><img src="images/1.jpg" alt="" width="80%" height="80%"></td>
+
+</tr>
+
+<tr align="center">
+
+<td><img src="images/1.jpg" alt="" width="80%" height="80%"></td>
+
+<td><img src="images/1.jpg" alt="" width="80%" height="80%"></td>
+
+<td><img src="images/1.jpg" alt="" width="80%" height="80%"></td>
+<td><img src="images/1.jpg" alt="" width="80%" height="80%"></td>
+
+</tr>
+
+<tr align="center">
+
+<td><img src="images/1.jpg" alt="" width="80%" height="80%"></td>
+
+<td><img src="images/1.jpg" alt="" width="80%" height="80%"></td>
+
+<td><img src="images/1.jpg" alt="" width="80%" height="80%"></td>
+<td><img src="images/1.jpg" alt="" width="80%" height="80%"></td>
+
+</tr>
+
+<tr align="center">
+
+<td><img src="images/1.jpg" alt="" width="80%" height="80%"></td>
+
+<td><img src="images/1.jpg" alt="" width="80%" height="80%"></td>
+
+<td><img src="images/1.jpg" alt="" width="80%" height="80%"></td>
+<td><img src="images/1.jpg" alt="" width="80%" height="80%"></td>
 
 </tr>
 
@@ -886,8 +880,6 @@ GPS
 
 <td></td>
 
-<th>  
-</th>
 
 </tr>
 
