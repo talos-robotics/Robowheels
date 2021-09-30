@@ -757,7 +757,7 @@ GPS
 
 # <u><center>Στάδια εξέλιξης - Τελικό πρωτότυπο</center></u>
 
-## Βίντεο
+## Βίντεο - Παρουσίαση
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/V4w2R3GzmRQ/maxresdefault.jpg)](https://www.youtube.com/embed/V4w2R3GzmRQ)
 
 	
