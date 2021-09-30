@@ -294,9 +294,9 @@
 
 <tr>
 
-<td></td>
+<td>L298N Βιβλιοθήκη</td>
 
-<td></td>
+<td><a href="https://downloads.arduino.cc/libraries/github.com/AndreaLombardo/L298N-2.0.2.zip?_gl=1*4jdbxj*_ga*MTg5MDYwNzAzMC4xNjMyNDIyNjU0*_ga_NEXN8H46L5*MTYzMjk5NjE0Mi42LjAuMTYzMjk5NjE0Mi4w">L298N</a></td>
 
 <td></td>
 
@@ -363,10 +363,10 @@
 
 <td>2</td>
 
-<td>Βάση για μοτέρ 57mm nema 23 3d μοντέλο για εκτύπωση</td>
+<td>Βάση για μοτέρ 3d μοντέλο για εκτύπωση</td>
 
 <td></td>
-<td><a href="/images/mountmodel.stl">Κατεβάστε απο εδώ</a></td>
+<td><a href="https://github.com/talos-robotics/Robowheels/blob/main/images/JGB37-520%20mount.STL">Κατεβάστε απο εδώ</a></td>
 
 
 </tr>
@@ -734,7 +734,7 @@ GPS
 
 #### Κατεβάστε τον κώδικα
 
-<a href="/files/mma.ino">Κώδικας με τον αισθητήρα MMA8451</a>
+<a href="/files/robowheelsDC.ino">Κώδικας με τον αισθητήρα MMA8451</a>
 
 </div>
 
@@ -755,7 +755,7 @@ GPS
 Ενα βασικό μειονέκτημα της πολύ σημαντικό είναι ότι επηρεάζεται αρνητικά από τους περιβάλλοντες ήχους με
 αποτέλεσμα να μην μπορεί να γίνει σωστά η αναγνώριση.
 
-<a href="/files/voice.ino">Κώδικας με τον αισθητήρα voice</a>
+<a href="/files/robowheels_voiceDC.ino">Κώδικας με τον αισθητήρα voice</a>
 	
 </div>
 
