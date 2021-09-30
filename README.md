@@ -814,9 +814,9 @@ GPS
 </tr>
 <tr align="center">
 <td><img src="https://github.com/talos-robotics/Robowheels/blob/main/images/33.jpg?raw=true" alt="" width="80%" height="80%" /></td>
-<td><img src="https://github.com/talos-robotics/Robowheels/blob/main/images/34.jpg?raw=true" alt="" width="80%" height="80%" /></td>
-<td><img src="https://github.com/talos-robotics/Robowheels/blob/main/images/35.jpg?raw=true" alt="" width="80%" height="80%" /></td>
-<td><img src="https://github.com/talos-robotics/Robowheels/blob/main/images/36.jpg?raw=true" alt="" width="80%" height="80%" /></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
