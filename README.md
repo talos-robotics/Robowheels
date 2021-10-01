@@ -177,6 +177,7 @@
 <td>SIM808 GPS GSM GPRS Bluetooth Module W/2.4G Antenna Replace SIM908 For Arduino</td>
 
 <td>44</td>
+<td>ΧΡΕΙΑΖΕΤΑΙ ΜΟΝΟ ΓΙΑ ΤΗΝ ΠΕΡΙΠΤΩΣΗ ΑΝΑΒΑΘΜΙΣΗΣ – ΕΠΕΚΤΑΣΗΣ. ΟΧΙ ΓΙΑ ΤΗΝ ΒΑΣΙΚΗ ΕΚΔΟΣΗ.</td>
 
 <th>  
 </th>
