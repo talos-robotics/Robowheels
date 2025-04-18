@@ -6,6 +6,8 @@
 
 # Αυτοματοποιημένο αναπηρικό αμαξίδιο
 
+<div style="text-align: center;"><img class="aligncenter" style="width:1000px; height: 800px;" src="https://github.com/talos-robotics/Airbot/blob/master/images/diakrisi20.png" alt="air"></div>
+
 </div>
 
 <div style="text-align: left; ">
