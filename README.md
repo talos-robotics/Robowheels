@@ -6,7 +6,10 @@
 
 # Αυτοματοποιημένο αναπηρικό αμαξίδιο
 
-<div style="text-align: center;"><img class="aligncenter" style="width:1000px; height: 800px;" src="https://github.com/talos-robotics/Robowheels/blob/main/images/diakrisi21.png" alt="air"></div>
+<div style="text-align: center;"><img class="aligncenter" style="width:800px; height: 600px;" src="https://github.com/talos-robotics/Robowheels/blob/main/images/diakrisi21.png" alt="air"></div>
+
+# Δημοσίευση στον τύπο
+https://www.haniotika-nea.gr/ta-paidia-kainotomei/
 
 </div>
 
